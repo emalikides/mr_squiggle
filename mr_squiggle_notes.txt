@@ -1,0 +1,15 @@
+TODO:
+How do I convert a webcam image to black and white?
+How do I transform a pixelated image to coordinates to be drawn by the thing??
+
+
+Can I recognise without a transformation?
+- for handwriting. yes with Neural Networks or transformation ind. features.
+
+Example: completes lower half of face 
+- Uses regression. Not really appropriate, but could be done for my problem.
+
+How do I do recognition?
+- Use something fast and shit, since accuracy is not important.
+- KNN? What is the feature space?
+- Neural network?

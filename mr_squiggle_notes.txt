@@ -1,7 +1,9 @@
 TODO:
-How do I convert a webcam image to black and white?
-How do I transform a pixelated image to coordinates to be drawn by the thing??
-
+1. Convert webcam image to black and white
+2. Recognise the image, and find the transform
+3. Apply the transformation to library of drawing instructions.
+4. Write code to create simple drawing instructions from a black and white
+image.
 
 Can I recognise without a transformation?
 - for handwriting. yes with Neural Networks or transformation ind. features.
